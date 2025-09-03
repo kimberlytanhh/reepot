@@ -1,0 +1,6 @@
+
+:root { --line:#c9ccd1; --bg:#f7f8fa; }
+body{ background:var(--bg); }
+.wf-head{ border:2px solid var(--line); border-radius:14px; padding:14px; background:#fff; }
+.wf-box{ border:2px dashed var(--line); border-radius:12px; padding:16px; background:#fff; }
+.card.wf-card{ border:2px dashed var(--line); }
